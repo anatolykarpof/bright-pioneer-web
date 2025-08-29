@@ -33,12 +33,6 @@ education:
     date_start: 2022-09-29
     date_end: 2026-06-10
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
