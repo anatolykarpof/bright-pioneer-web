@@ -1,20 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Andrew Shi 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Pronouns (optional)
-pronouns: she/her
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Andrew
+last_name: Shi
 
 # Is this the primary user of the site?
 superuser: true
